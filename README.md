@@ -19,6 +19,7 @@ Just, please give credit where credit is due. I DID work on this program and if 
 Also, about the monika.chr file, I took that from the game. It’s not necessary but I just wanted to put it in there. :3
 
 Sorry, but 1.0 needs to have you download python. Later versions won’t have this but I couldn’t get it to convert. I’ll put a link to the python website for you. (https://www.python.org/)
+Also, if the program gives a "error: tkinter is not found" or something like that. you have a older python (that's not python 3). This is a simple fix, just replace the "t" in "tkinter" with a uppercase "T". Do this for the 3 times the program has it (don't worry, they're around the beginning).
 
 I’ll post my links here if you want:
 GITHUB: https://github.com/JakeStarGames
