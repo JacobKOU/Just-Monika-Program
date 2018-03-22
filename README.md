@@ -21,6 +21,15 @@ Also, about the monika.chr file, I took that from the game. It’s not necessary
 Sorry, but 1.0 needs to have you download python. Later versions won’t have this but I couldn’t get it to convert. I’ll put a link to the python website for you. (https://www.python.org/)
 Also, if the program gives a "error: tkinter is not found" or something like that. you have a older python (that's not python 3). This is a simple fix, just replace the "t" in "tkinter" with a uppercase "T". Do this for the 3 times the program has it (don't worry, they're around the beginning).
 
+Version 1.1 includes a font from the original game called “Halogen”. You can install it and the program will automatically use it which makes it look more like the game. This font isn’t necessary to run the program because it’ll load up a generic font to use but the program will look more like the original game if you do install it! It also lets you use it in any program because it’s a universal font! :3
+
+Version 1.1 Adds these features to the original program:
+1.A GUI That looks more like the original game (basically it looks prettier and better)
+2.The program actually remember’s your numbers at the beginning instead of entering it every time you open the program in the form of a file called save.txt (so that’s why it’s there)
+3.The program has a little message when you press the close program button so be sure to press it :3
+
+I decided to not make a compiled version because python doesn’t come with a compiler and it’s a huge pain to try to compile a program that wasn’t meant to compile
+
 I’ll post my links here if you want:
 GITHUB: https://github.com/JakeStarGames
 GOOGLE SURVEY: https://goo.gl/forms/EyNbtlVUQmoEng2M2
